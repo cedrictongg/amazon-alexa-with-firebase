@@ -1,0 +1,5 @@
+{
+  "projectId": "{{Your Project Id}}",
+  "clientEmail": "{{Your Project Name}}@{{Your Project Name}}.iam.gserviceaccount.com",
+  "privateKey": "-----BEGIN PRIVATE KEY-----\n{{Your API Key}}\n-----END PRIVATE KEY-----\n"
+}
